@@ -1,14 +1,54 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "name": "Xiaomi",
+      "date": "2021-4-23-11-50-7",
+      "serial": 5407702,
+      "stock": 5,
+      "category": "Handphone",
+      "price": 4500000,
+      "status": "avaiable",
+      "id": 2
+    },
+    {
+      "name": "Samsung",
+      "date": "2021-4-23-11-50-20",
+      "serial": 5420752,
+      "stock": 5,
+      "category": "Handphone",
+      "price": 10000000,
+      "status": "avaiable",
+      "id": 3
+    },
+    {
+      "name": "Xiaomi Smart TV",
+      "date": "2021-4-23-11-50-38",
+      "serial": 5438106,
+      "stock": 5,
+      "category": "Electronic",
+      "price": 5500000,
+      "status": "avaiable",
+      "id": 4
+    },
+    {
+      "name": "Lampu LED",
+      "date": "2021-4-23-11-50-58",
+      "serial": 5458194,
+      "stock": 0,
+      "category": "Electronic",
+      "price": 120000,
+      "status": "non-avaiable",
+      "id": 5
+    }
+  ]
 }
